@@ -1,6 +1,6 @@
 {
-  "name": "hammer-touchemulator",
-  "version": "0.0.2",
+  "name": "hammer-touchemulator_forked",
+  "version": "0.0.3",
   "description": "Emulate touch input on your desktop.",
   "main": "touch-emulator.js",
   "directories": {
